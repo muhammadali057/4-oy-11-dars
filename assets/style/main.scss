@@ -1,0 +1,353 @@
+@font-face {
+    font-family: 'Regular-400';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 1440px;
+    height: 1000px;
+    gap: 50px;
+    position: relative;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 20px;
+}
+.text_title{
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Regular-400';
+}
+.dollor{
+    margin-top: -20px;
+    color: green;
+    font-family: 'Regular-400';
+}
+.text{
+    margin-top: 20px;
+    font-family: 'Regular-400';
+}
+.text2{
+    margin-top: 20px;
+    font-family: 'Regular-400';
+}
+
+.cars1 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars1 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars2 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars3{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars4{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars5 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars6 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars7 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars8 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars9{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars10 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars11 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.cars12 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.imags{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+}
+.yulduz{
+    width: 100px;
+    height: 100px;
+    margin-top: -30px;
+}
+.btn1{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 250px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn2{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 250px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn3{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 250px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn4{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 250px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn5{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 570px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+
+}
+.btn6{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 570px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn7{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 570px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn8{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 570px;
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn9{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    margin-left: 200px;
+    top: 880px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn10{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    margin-left: 200px;
+    top: 880px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn11{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    margin-left: 200px;
+    top: 880px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.btn12{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    margin-left: 200px;
+    top: 880px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: .5s;
+    &:hover{
+        cursor: pointer;
+        background: none;
+        color: green;
+        border: 2px solid green;
+        transition: .5s;
+    }
+}
+.grow{
+    padding: 0px 20px;
+}
+
+.color{
+    color: green;
+}
+
